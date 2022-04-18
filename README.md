@@ -2,9 +2,6 @@
 
 Started on 16/4/22, written by Ozone.
 
-
-
-
 ## Introduction
 
 As you know, a planetary system is a group celestial bodies gravitationally bound and orbiting a star. 1% of all planetary systems have the same or more amount of planets compared to ours. However, that has says nothing in relation to habitability.
@@ -13,6 +10,8 @@ As you know, a planetary system is a group celestial bodies gravitationally boun
 
 
 # Stars
+
+Stars are huge celestial bodies that shine brightly in our universe. They are made mostly of hydrogen which fuses into helium closer into the star's core. They are the heart of planetary systems and emit photons and radiation in the form of solar wind. Stars effectively have a near infinite quantity of energy and can even be used as a power source by an advanced civilization.
 
 ## The Sun
 
@@ -140,7 +139,7 @@ As you know, a planetary system is a group celestial bodies gravitationally boun
 
 
 
-# Satelites
+# Moons
 
 ## The Moon
 
