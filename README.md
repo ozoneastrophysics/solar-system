@@ -121,7 +121,7 @@ As you know, a planetary system is a group celestial bodies gravitationally boun
 - **Distance from the Sun:** 20 AU (3,000,000,000 km)
 - **Orbital Period:** 84 years
 - **Rotational Period:** 17 hours, 14 minutes
-- **Surface Temperature:** −220 °C
+- **Surface Temperature:** −224 °C
 
 
 
@@ -129,10 +129,37 @@ As you know, a planetary system is a group celestial bodies gravitationally boun
 ## Neptune
 
 - **Planet Type:** Ice Giant
-- **Volume:** 
-- **Mass:**
-- **Surface Gravity:**
-- **Distance from the Sun:**
-- **Orbital Period:**
-- **Rotational Period:**
-- **Surface Temperature:**
+- **Volume:** 6.253×10^13 km³ 
+- **Mass:** 1.02413×10^26 kg
+- **Surface Gravity:** 11.15 m/s²
+- **Distance from the Sun:** 
+- **Orbital Period:** 164.79 years
+- **Rotational Period:** 16 hours, 6 minutes, 36 seconds
+- **Surface Temperature:** -220°C
+
+
+
+
+# Satelites
+
+## The Moon
+
+## Deimos
+
+## Phobos
+
+## Ganymede
+
+## Europa
+
+## Rhea
+
+## Titan
+
+## Oberon
+
+## Titania
+
+## Proteus
+
+## Triton
