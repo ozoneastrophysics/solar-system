@@ -27,6 +27,8 @@ Stars are huge celestial bodies that shine brightly in our universe. They are ma
 
 # Planets
 
+A planet is a smaller celestial body which orbits a star in a planetary system, unless it is a rogue planet. There are rocky terrestiral planets, gas giants, and ice giants. The habital zone is the area of distance from a star where water would be a liquid, which is where Earth is.
+
 ## Mercury
 
 - **Planet Type:** Terrestrial
@@ -140,6 +142,8 @@ Stars are huge celestial bodies that shine brightly in our universe. They are ma
 
 
 # Moons
+
+Moons are natural satelites that orbit a planet. There are two types of moons; rocky terrestrial moons and ice moons.
 
 ## The Moon
 
