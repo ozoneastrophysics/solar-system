@@ -41,8 +41,6 @@ A planet is a smaller celestial body which orbits a star in a planetary system, 
 - **Surface Temperature Range:** −173 to 427 °C
 
 
-
-
 ## Venus
 
 - **Planet Type:** Terrestrial
@@ -53,8 +51,6 @@ A planet is a smaller celestial body which orbits a star in a planetary system, 
 - **Orbital Period:** 224.7 days
 - **Rotational Period:** 243 days
 - **Surface Temperature:** 464°C
-
-
 
 
 ## Earth
@@ -69,8 +65,6 @@ A planet is a smaller celestial body which orbits a star in a planetary system, 
 - **Surface Temperature Range:** -89 to 55°C
 
 
-
-
 ## Mars
 
 - **Planet Type:** Terrestrial
@@ -81,8 +75,6 @@ A planet is a smaller celestial body which orbits a star in a planetary system, 
 - **Orbital Period:** 687 days
 - **Rotational Period:** 24 hours, 39 minutes, 35 seconds ("sol")
 - **Surface Temperature Range:** -128 to 35°C
-
-
 
 
 ## Jupiter
@@ -97,8 +89,6 @@ A planet is a smaller celestial body which orbits a star in a planetary system, 
 - **Surface Temperature:** 67°C
 
 
-
-
 ## Saturn
 
 - **Planet Type:** Gas Giant
@@ -111,8 +101,6 @@ A planet is a smaller celestial body which orbits a star in a planetary system, 
 - **Surface Temperature Range:** -173 to -113°C
 
 
-
-
 ## Uranus
 
 - **Planet Type:** Ice Giant
@@ -123,8 +111,6 @@ A planet is a smaller celestial body which orbits a star in a planetary system, 
 - **Orbital Period:** 84 years
 - **Rotational Period:** 17 hours, 14 minutes
 - **Surface Temperature:** −224 °C
-
-
 
 
 ## Neptune
@@ -147,17 +133,77 @@ Moons are natural satelites that orbit a planet. There are two types of moons; r
 
 ## The Moon
 
-## Deimos
+- **Moon Type:** Terrestrial
+- **Volume:** 2.1958×10^10 km³ 
+- **Mass:** 7.342×10^22 kg 
+- **Surface Gravity:** 1.662 m/s²
+- **Distance from Earth:** 384,400 km
+- **Orbital Period:** 27.32 days
+- **Rotational Period:** 27.32 days
+
 
 ## Phobos
 
+- **Moon type:** Terrestrial
+- **Volume:** 5783.61 km³
+- **Mass:** 1.0659×10^16 kg
+- **Surface Gravity:** 0.0057 m/s²
+- **Distance from Mars:** 9,376 km
+- **Orbital Period:** 7 hours, 39 minutes, 12 seconds
+- **Rotational Period:** 7 hours, 39 minutes, 12 seconds
+
+
+## Deimos
+
+- **Moon Type:** Terrestrial
+- **Volume:** 999.78 km³
+- **Mass:** 1.4762×10^15 kg
+- **Surface Gravity:** 0.003 m/s²
+- **Distance from Mars:** 23,463 km
+- **Orbital Period:** 30 hours, 18 minutes, 43 seconds
+- **Rotational Period:** 30 hours, 18 minutes, 43 seconds
+
+
 ## Ganymede
+
+- **Moon Type:** Terrestrial
+- **Volume:** 7.66×10^10 km³
+- **Mass:** 1.4819×10^23 kg
+- **Surface Gravity:** 1.428 m/s²
+- **Distance from Jupiter:** 1,070,400 km
+- **Orbital Period:** 7.15 days
+- **Rotational Period:** 7.15 days
+
 
 ## Europa
 
+- **Moon Type:** Icemoon
+- **Volume:** 1.593×10^10 km³
+- **Mass:** 4.799844^22 kg
+- **Surface Gravity:** 1.314 m/s²
+- **Distance from Jupiter:** 670,900 km
+- **Orbital Period:** 3.55 days
+- **Rotational Period:** 3.55 days
+
+
 ## Rhea
 
+- **Moon Type:** Terrestrial
+- **Volume:** 3.564×10^9 km³
+- **Mass:** 2.307×10^21 kg
+- **Surface Gravity:** 0.264 m/s²
+- **Distance from Saturn:** 527,108 km
+- **Orbital Period:** 4.52 days
+- **Rotational Period:** 4.52 days
+
+
 ## Titan
+
+- **Moon Type:** Terrestrial
+- **Volume:** 7.16×10^10 km³
+- **Mass:** 1.345×10^23 kg
+- **Surface Gravity:** 1.35 m/s²
+
 
 ## Oberon
 
