@@ -129,7 +129,7 @@ A planet is a smaller celestial body which orbits a star in a planetary system, 
 
 # Moons
 
-Moons are natural satelites that orbit a planet. There are two types of moons; rocky terrestrial moons and ice moons.
+Moons are natural satelites that orbit a planet. There are two types of moons; rocky terrestrial moons and ice moons. There is a rare phenomenon where a moon orbits opposite to the way that its host planet is rotating. This is called a retrograde orbit.
 
 ## The Moon
 
@@ -138,8 +138,7 @@ Moons are natural satelites that orbit a planet. There are two types of moons; r
 - **Mass:** 7.342×10^22 kg 
 - **Surface Gravity:** 1.662 m/s²
 - **Distance from Earth:** 384,400 km
-- **Orbital Period:** 27.32 days
-- **Rotational Period:** 27.32 days
+- **Orbital/Rotational Period:** 27.32 days
 
 
 ## Phobos
@@ -149,8 +148,7 @@ Moons are natural satelites that orbit a planet. There are two types of moons; r
 - **Mass:** 1.0659×10^16 kg
 - **Surface Gravity:** 0.0057 m/s²
 - **Distance from Mars:** 9,376 km
-- **Orbital Period:** 7 hours, 39 minutes, 12 seconds
-- **Rotational Period:** 7 hours, 39 minutes, 12 seconds
+- **Orbital/Rotational Period:** 7 hours, 39 minutes, 12 seconds
 
 
 ## Deimos
@@ -160,8 +158,7 @@ Moons are natural satelites that orbit a planet. There are two types of moons; r
 - **Mass:** 1.4762×10^15 kg
 - **Surface Gravity:** 0.003 m/s²
 - **Distance from Mars:** 23,463 km
-- **Orbital Period:** 30 hours, 18 minutes, 43 seconds
-- **Rotational Period:** 30 hours, 18 minutes, 43 seconds
+- **Orbital/Rotational Period:** 30 hours, 18 minutes, 43 seconds
 
 
 ## Ganymede
@@ -171,8 +168,7 @@ Moons are natural satelites that orbit a planet. There are two types of moons; r
 - **Mass:** 1.4819×10^23 kg
 - **Surface Gravity:** 1.428 m/s²
 - **Distance from Jupiter:** 1,070,400 km
-- **Orbital Period:** 7.15 days
-- **Rotational Period:** 7.15 days
+- **Orbital/Rotational Period:** 7.15 days
 
 
 ## Europa
@@ -182,8 +178,17 @@ Moons are natural satelites that orbit a planet. There are two types of moons; r
 - **Mass:** 4.799844^22 kg
 - **Surface Gravity:** 1.314 m/s²
 - **Distance from Jupiter:** 670,900 km
-- **Orbital Period:** 3.55 days
-- **Rotational Period:** 3.55 days
+- **Orbital/Rotational Period:** 3.55 days
+
+
+## Titan
+
+- **Moon Type:** Terrestrial
+- **Volume:** 7.16×10^10 km³
+- **Mass:** 1.345×10^23 kg
+- **Surface Gravity:** 1.35 m/s²
+- **Distance from Saturn:** 1,200,000 km
+- **Orbital/Rotational Period:** 15.92 days
 
 
 ## Rhea
@@ -193,22 +198,24 @@ Moons are natural satelites that orbit a planet. There are two types of moons; r
 - **Mass:** 2.307×10^21 kg
 - **Surface Gravity:** 0.264 m/s²
 - **Distance from Saturn:** 527,108 km
-- **Orbital Period:** 4.52 days
-- **Rotational Period:** 4.52 days
+- **Orbital/Rotational Period:** 4.52 days
 
-
-## Titan
-
-- **Moon Type:** Terrestrial
-- **Volume:** 7.16×10^10 km³
-- **Mass:** 1.345×10^23 kg
-- **Surface Gravity:** 1.35 m/s²
-
-
-## Oberon
 
 ## Titania
 
-## Proteus
+- **Moon Type:** Icemoon
+- **Volume:** 2.065×10^9 km³
+- **Mass:** 3.4×10^21 kg
+- **Surface Gravity:** 0.365 m/s²
+- **Distance from Uranus:** 436,000 km
+- **Orbital/Rotational Period:** 8.7 days
+
 
 ## Triton
+
+- **Moon Type:** Icemoon
+- **Volume:** 1.038×10^10 km³
+- **Mass:** 2.139×10^22 kg
+- **Surface Gravity:** 0.779 m/s²
+- **Distance from Neptune:** 354,759 km
+- **Orbital/Rotational Period:** 5.88 days (retrograde orbit)
