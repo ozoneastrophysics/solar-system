@@ -15,6 +15,8 @@ Stars are huge celestial bodies that shine brightly in our universe. They are ma
 
 ## The Sun
 
+The Sun is a yellow dwarf star that powers our solar system. Though it is small in relation to the rest of the stars out there, it still takes up 99.8% amount of mass in the entire solar system. It is crucial for most of the life in the system and we would definitely not be here without it.
+
 - **Star Type:** Yellow Dwarf (GV2)
 - **Volume:** 1.41×1018 km³
 - **Mass:** 1.9885×10^30 kg
@@ -31,6 +33,8 @@ A planet is a smaller celestial body which orbits a star in a planetary system, 
 
 ## Mercury
 
+Mercury is the smallest full sized planet in the solar system, and the closest to the Sun. It has essentially no atmosphere and gets hit with a lot of heat and solar radiation. It has the fastest orbit out of the eight planets in our system, yet has a very slow rotational period.
+
 - **Planet Type:** Terrestrial
 - **Volume:** 6.083×10^10 km³
 - **Mass:** 3.3011×10^23 kg
@@ -42,6 +46,8 @@ A planet is a smaller celestial body which orbits a star in a planetary system, 
 
 
 ## Venus
+
+Similar size and surface gravity to our planet, yet very different in multiple other ways. Venus has a very high pressure, thick atmosphere which is full of CO², which is the reason that it's hotter than Mercury, apart from still being very close to the Sun. However, Venus is relatively interesting in the sense that in the future, it can be terraformed and become a blue planet like ours, though it would take a rather long time.
 
 - **Planet Type:** Terrestrial
 - **Volume:** 9.2843×10^11 km³
@@ -55,6 +61,8 @@ A planet is a smaller celestial body which orbits a star in a planetary system, 
 
 ## Earth
 
+Our only home at the moment and a phenomenon of the observable universe. Life on a planet is extremely unlikely, yet here we are as an intellegent species today. Earth is very habitable, however there are other planets lightyears away with a higher habitability.
+
 - **Planet Type:** Terrestrial
 - **Volume:** 1.08321×10^12 km³
 - **Mass:** 5.97237×10^24 kg
@@ -66,6 +74,8 @@ A planet is a smaller celestial body which orbits a star in a planetary system, 
 
 
 ## Mars
+
+The second smallest planet in our solar system, Mars. There is not much of an atmosphere on this planet anymore, making life extremely unlikely, and for it to be harder for us humans to survive there. However, it is definitely possible.
 
 - **Planet Type:** Terrestrial
 - **Volume:** 1.63118×10^11 km³
@@ -79,6 +89,8 @@ A planet is a smaller celestial body which orbits a star in a planetary system, 
 
 ## Jupiter
 
+Jupiter is the largest planet, and has the second most moons in the solar system. It has massive storms primarily made of hydrogen and helium. The planet itself is very similar to a brown dwarf.
+
 - **Planet Type:** Gas Giant
 - **Volume:** 1.4313×10^15 km³
 - **Mass:** 1.8982×10^27 kg
@@ -90,6 +102,8 @@ A planet is a smaller celestial body which orbits a star in a planetary system, 
 
 
 ## Saturn
+
+The second biggest planet, the largest ring, and the most moons in the system. Saturn is an amazingly interesting planet some storms like jupiter, but has a phenomenon where there is a storm on the top of the planet in the shape of a hexagon.
 
 - **Planet Type:** Gas Giant
 - **Volume:** 8.2713×10^14 km³
